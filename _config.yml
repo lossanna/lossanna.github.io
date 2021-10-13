@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Lia Ossanna"
-  avatar           : "profilepic.JPG"
+  avatar           : "/images/profilepic.JPG"
   bio              : "PhD student at University of Arizona, studying ecological restoration and invasive species management"
   location         : "Tucson, AZ, USA"
   employer         :
