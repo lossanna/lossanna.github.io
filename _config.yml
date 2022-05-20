@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Lia Ossanna"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Lia Ossanna"
 description              : &description "personal description"
-url                      : https://lossanna.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://lossanna.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lossanna/lossanna.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -84,7 +84,7 @@ author:
   avatar           : "/images/profilepic.JPG"
   bio              : "PhD student at University of Arizona, studying ecological restoration and invasive species management"
   location         : "Tucson, AZ, USA"
-  employer         :
+  employer         :  "University of Arizona"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=lJleR4UAAAAJ&hl=en&oi=ao"
   email            :
